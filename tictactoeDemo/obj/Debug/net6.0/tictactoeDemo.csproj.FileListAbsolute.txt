@@ -1,0 +1,12 @@
+C:\Users\brebr\source\repos\tictactoe\tictactoeDemo\bin\Debug\net6.0\tictactoeDemo.deps.json
+C:\Users\brebr\source\repos\tictactoe\tictactoeDemo\bin\Debug\net6.0\tictactoeDemo.dll
+C:\Users\brebr\source\repos\tictactoe\tictactoeDemo\bin\Debug\net6.0\tictactoeDemo.pdb
+C:\Users\brebr\source\repos\tictactoe\tictactoeDemo\obj\Debug\net6.0\tictactoeDemo.csproj.AssemblyReference.cache
+C:\Users\brebr\source\repos\tictactoe\tictactoeDemo\obj\Debug\net6.0\tictactoeDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brebr\source\repos\tictactoe\tictactoeDemo\obj\Debug\net6.0\tictactoeDemo.AssemblyInfoInputs.cache
+C:\Users\brebr\source\repos\tictactoe\tictactoeDemo\obj\Debug\net6.0\tictactoeDemo.AssemblyInfo.cs
+C:\Users\brebr\source\repos\tictactoe\tictactoeDemo\obj\Debug\net6.0\tictactoeDemo.csproj.CoreCompileInputs.cache
+C:\Users\brebr\source\repos\tictactoe\tictactoeDemo\obj\Debug\net6.0\tictactoeDemo.dll
+C:\Users\brebr\source\repos\tictactoe\tictactoeDemo\obj\Debug\net6.0\refint\tictactoeDemo.dll
+C:\Users\brebr\source\repos\tictactoe\tictactoeDemo\obj\Debug\net6.0\tictactoeDemo.pdb
+C:\Users\brebr\source\repos\tictactoe\tictactoeDemo\obj\Debug\net6.0\ref\tictactoeDemo.dll
