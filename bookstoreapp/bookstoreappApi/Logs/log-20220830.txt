@@ -1,0 +1,52 @@
+2022-08-30 19:29:57.975 -06:00 [INF] Now listening on: https://localhost:7143
+2022-08-30 19:29:58.109 -06:00 [INF] Now listening on: http://localhost:5143
+2022-08-30 19:29:58.118 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-30 19:29:58.122 -06:00 [INF] Hosting environment: Development
+2022-08-30 19:29:58.125 -06:00 [INF] Content root path: C:\Users\brebr\source\repos\tictactoe\bookstoreapp\bookstoreappApi\
+2022-08-30 19:29:59.727 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7143/swagger - -
+2022-08-30 19:30:00.489 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7143/swagger/index.html - -
+2022-08-30 19:30:00.492 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7143/swagger - - - 301 0 - 761.2624ms
+2022-08-30 19:30:02.196 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7143/_framework/aspnetcore-browser-refresh.js - -
+2022-08-30 19:30:02.197 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7143/_vs/browserLink - -
+2022-08-30 19:30:02.197 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7143/swagger/swagger-ui-standalone-preset.js - -
+2022-08-30 19:30:02.197 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7143/swagger/swagger-ui-bundle.js - -
+2022-08-30 19:30:02.197 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7143/swagger/swagger-ui.css - -
+2022-08-30 19:30:02.201 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7143/swagger/index.html - - - 200 - text/html;charset=utf-8 1711.8364ms
+2022-08-30 19:30:02.283 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7143/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 86.7475ms
+2022-08-30 19:30:02.352 -06:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2022-08-30 19:30:02.356 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7143/swagger/swagger-ui.css - - - 200 143632 text/css 159.0743ms
+2022-08-30 19:30:02.381 -06:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2022-08-30 19:30:02.384 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7143/swagger/swagger-ui-standalone-preset.js - - - 200 337162 application/javascript 187.4925ms
+2022-08-30 19:30:02.503 -06:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2022-08-30 19:30:02.507 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7143/swagger/swagger-ui-bundle.js - - - 200 1092889 application/javascript 310.0208ms
+2022-08-30 19:30:02.755 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7143/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 558.2848ms
+2022-08-30 19:30:02.834 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7143/swagger/v1/swagger.json - -
+2022-08-30 19:30:03.123 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7143/swagger/favicon-32x32.png - -
+2022-08-30 19:30:03.125 -06:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2022-08-30 19:30:03.127 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7143/swagger/favicon-32x32.png - - - 200 628 image/png 4.6939ms
+2022-08-30 19:30:03.586 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7143/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 752.0209ms
+2022-08-30 19:45:54.118 -06:00 [INF] Now listening on: https://localhost:7143
+2022-08-30 19:45:54.165 -06:00 [INF] Now listening on: http://localhost:5143
+2022-08-30 19:45:54.170 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-30 19:45:54.171 -06:00 [INF] Hosting environment: Development
+2022-08-30 19:45:54.172 -06:00 [INF] Content root path: C:\Users\brebr\source\repos\tictactoe\bookstoreapp\bookstoreappApi\
+2022-08-30 19:46:06.038 -06:00 [INF] Now listening on: https://localhost:7143
+2022-08-30 19:46:06.155 -06:00 [INF] Now listening on: http://localhost:5143
+2022-08-30 19:46:06.163 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-30 19:46:06.165 -06:00 [INF] Hosting environment: Development
+2022-08-30 19:46:06.167 -06:00 [INF] Content root path: C:\Users\brebr\source\repos\tictactoe\bookstoreapp\bookstoreappApi\
+2022-08-30 19:46:07.290 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7143/swagger/index.html - -
+2022-08-30 19:46:08.310 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7143/_vs/browserLink - -
+2022-08-30 19:46:08.323 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7143/_framework/aspnetcore-browser-refresh.js - -
+2022-08-30 19:46:08.370 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7143/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 38.3483ms
+2022-08-30 19:46:08.402 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7143/swagger/index.html - - - 200 - text/html;charset=utf-8 1125.5789ms
+2022-08-30 19:46:08.531 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7143/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 221.3560ms
+2022-08-30 19:46:08.953 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7143/swagger/v1/swagger.json - -
+2022-08-30 19:46:09.294 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7143/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 340.7148ms
+2022-08-30 19:46:23.164 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7143/WeatherForecast - -
+2022-08-30 19:46:23.212 -06:00 [INF] Executing endpoint 'bookstoreappApi.Controllers.WeatherForecastController.Get (bookstoreappApi)'
+2022-08-30 19:46:23.331 -06:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[bookstoreappApi.WeatherForecast] Get() on controller bookstoreappApi.Controllers.WeatherForecastController (bookstoreappApi).
+2022-08-30 19:46:23.365 -06:00 [INF] made call to weath endpoint
+2022-08-30 19:46:23.612 -06:00 [ERR] fatal Error Occurred
+System.Exception: this is our logging test
+   at bookstoreappApi.Controllers.WeatherForecastController.Get() in C:\Users\brebr\source\repos\tictactoe\bookstoreapp\bookstoreappApi\Controllers\WeatherForecastController.cs:line 27
