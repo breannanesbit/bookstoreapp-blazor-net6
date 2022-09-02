@@ -12,6 +12,7 @@ namespace bookstoreappApi.Data
         public string? Summary { get; set; }
         public string? Image { get; set; }
         public decimal? Price { get; set; }
+        public DateTime? YearPublished { get; set; }
         public int? AuthorId { get; set; }
 
         public virtual Author? Author { get; set; }

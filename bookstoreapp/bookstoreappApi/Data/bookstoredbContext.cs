@@ -57,6 +57,10 @@ namespace bookstoreappApi.Data
                 entity.Property(e => e.Summary)
                     .HasMaxLength(250)
                     .IsFixedLength();
+                
+                entity.Property(e => e.YearPublished)
+                    .HasMaxLength(12)
+                    .IsFixedLength();
 
                 entity.Property(e => e.Title).HasMaxLength(50);
 
