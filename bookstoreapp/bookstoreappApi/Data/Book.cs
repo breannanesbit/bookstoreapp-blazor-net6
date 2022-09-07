@@ -15,6 +15,6 @@ namespace bookstoreappApi.Data
         public DateTime? YearPublished { get; set; }
         public int? AuthorId { get; set; }
 
-        public virtual Author? Author { get; set; }
+        public virtual AuthorUpdateDto? Author { get; set; }
     }
 }

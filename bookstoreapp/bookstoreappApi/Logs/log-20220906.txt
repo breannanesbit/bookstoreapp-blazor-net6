@@ -1,0 +1,1 @@
+2022-09-06 22:41:19.330 -06:00 [INF] Entity Framework Core 6.0.8 initialized 'bookstoredbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.8' with options: None
