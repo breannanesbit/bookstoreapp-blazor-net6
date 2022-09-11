@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using bookstoreappApi.models.author;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
@@ -16,13 +17,13 @@ namespace bookstoreappApi.Data
         {
         }
 
-        public virtual DbSet<AuthorUpdateDto> Authors { get; set; } = null!;
+        public virtual DbSet<AuthorUpdatedDto> Authors { get; set; } = null!;
         public virtual DbSet<Book> Books { get; set; } = null!;
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<AuthorUpdateDto>(entity =>
+            modelBuilder.Entity<AuthorUpdatedDto>(entity =>
             {
                 entity.Property(e => e.Bio)
                     .HasMaxLength(250)
@@ -64,10 +65,10 @@ namespace bookstoreappApi.Data
 
                 entity.Property(e => e.Title).HasMaxLength(50);
 
-                entity.HasOne(d => d.Author)
+               /* entity.HasOne(d => d.Author)
                     .WithMany(p => p.Books)
                     .HasForeignKey(d => d.AuthorId)
-                    .HasConstraintName("FK_Books_ToTable");
+                    .HasConstraintName("FK_Books_ToTable");*/
             });
 
             OnModelCreatingPartial(modelBuilder);

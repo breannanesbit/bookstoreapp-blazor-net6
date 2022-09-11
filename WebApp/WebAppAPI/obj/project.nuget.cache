@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZThXBLh9LPwH7sUH5FtF9oHN9wNKRhlrI6QDEUlnFkr8aRxO8u0Lvk7DuESnwoZMQsEIpzFYWg/iNeRt5WCwPQ==",
+  "dgSpecHash": "14L+EC4XunWSBHhYwlxpees2wE0qP0aKToFEQSRfy1gt1AKzTV2Mz+cSW0y3ZCgYXvTyf0XpgHwARs5lZ+K9bw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\brebr\\source\\repos\\tictactoe\\WebApp\\WebAppAPI\\WebAppAPI.csproj",
+  "projectFilePath": "C:\\Users\\brebr\\Source\\Repos\\bookstoreapp-blazor-net\\WebApp\\WebAppAPI\\WebAppAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brebr\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\brebr\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

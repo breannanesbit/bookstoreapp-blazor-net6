@@ -1,21 +1,24 @@
-﻿using bookstoreappApi.models.author;
-using System;
-using System.Collections.Generic;
+﻿using Microsoft.Build.Framework;
 
-namespace bookstoreappApi.Data
+namespace bookstoreappApi.models.Book
 {
-    public partial class Book
+    public class BookCreateDto
     {
-        public int Id { get; set; }
+        [Required]
         public string? Title { get; set; }
+        [Required]
         public int? Year { get; set; }
+        [Required]
         public string Isbn { get; set; } = null!;
+        [Required]
         public string? Summary { get; set; }
         public string? Image { get; set; }
+        [Required]
         public decimal? Price { get; set; }
         public DateTime? YearPublished { get; set; }
+        [Required]
         public int? AuthorId { get; set; }
-
-        public virtual AuthorUpdatedDto? Author { get; set; }
+        [Required]
+        public string? AuthorName { get; set; }
     }
 }

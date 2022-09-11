@@ -230,11 +230,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brebr\\source\\repos\\tictactoe\\WebApp\\WebAppAPI\\WebAppAPI.csproj",
+      "projectUniqueName": "C:\\Users\\brebr\\Source\\Repos\\bookstoreapp-blazor-net\\WebApp\\WebAppAPI\\WebAppAPI.csproj",
       "projectName": "WebAppAPI",
-      "projectPath": "C:\\Users\\brebr\\source\\repos\\tictactoe\\WebApp\\WebAppAPI\\WebAppAPI.csproj",
+      "projectPath": "C:\\Users\\brebr\\Source\\Repos\\bookstoreapp-blazor-net\\WebApp\\WebAppAPI\\WebAppAPI.csproj",
       "packagesPath": "C:\\Users\\brebr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brebr\\source\\repos\\tictactoe\\WebApp\\WebAppAPI\\obj\\",
+      "outputPath": "C:\\Users\\brebr\\Source\\Repos\\bookstoreapp-blazor-net\\WebApp\\WebAppAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

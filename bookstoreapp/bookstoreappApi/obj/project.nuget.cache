@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m5nyQbZDYX95/ws5WlBLlhjMXzZo9dG0XGOQLS9MnmYgfoX6fIn+rICXS4Dm2vA07EYdHw/6zRDH7txSYX3L7Q==",
+  "dgSpecHash": "BTM3xTTu2N9omsHZALlxIDSG8icto7UyD8DswHW0jW0mjOR6/nCQyK19GLYWCb/5Cq3nVEQKYLAAiDBGg4tZ0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\brebr\\Source\\Repos\\bookstoreapp-blazor-net6\\bookstoreapp\\bookstoreappApi\\bookstoreappApi.csproj",
+  "projectFilePath": "C:\\Users\\brebr\\source\\repos\\bookstoreapp-blazor-net\\bookstoreapp\\bookstoreappApi\\bookstoreappApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brebr\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\brebr\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

@@ -10807,11 +10807,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brebr\\Source\\Repos\\bookstoreapp-blazor-net6\\bookstoreapp\\bookstoreappApi\\bookstoreappApi.csproj",
+      "projectUniqueName": "C:\\Users\\brebr\\Source\\Repos\\bookstoreapp-blazor-net\\bookstoreapp\\bookstoreappApi\\bookstoreappApi.csproj",
       "projectName": "bookstoreappApi",
-      "projectPath": "C:\\Users\\brebr\\Source\\Repos\\bookstoreapp-blazor-net6\\bookstoreapp\\bookstoreappApi\\bookstoreappApi.csproj",
+      "projectPath": "C:\\Users\\brebr\\Source\\Repos\\bookstoreapp-blazor-net\\bookstoreapp\\bookstoreappApi\\bookstoreappApi.csproj",
       "packagesPath": "C:\\Users\\brebr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brebr\\Source\\Repos\\bookstoreapp-blazor-net6\\bookstoreapp\\bookstoreappApi\\obj\\",
+      "outputPath": "C:\\Users\\brebr\\Source\\Repos\\bookstoreapp-blazor-net\\bookstoreapp\\bookstoreappApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

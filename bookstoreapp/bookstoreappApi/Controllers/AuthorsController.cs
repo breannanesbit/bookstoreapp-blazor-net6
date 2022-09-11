@@ -52,7 +52,7 @@ namespace bookstoreappApi.Controllers
         // PUT: api/Authors/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutAuthor(int id, AuthorUpdateDto authorDto)
+        public async Task<IActionResult> PutAuthor(int id, AuthorUpdatedDto authorDto)
         {
             if (id != authorDto.Id)
             {
@@ -93,13 +93,13 @@ namespace bookstoreappApi.Controllers
         [HttpPost]
         public async Task<ActionResult<authorCreateDto>> PostAuthor(authorCreateDto authorDto)
         {
-            var author = mapper.Map<AuthorUpdateDto>(authorDto);
+            var author = mapper.Map<AuthorUpdatedDto>(authorDto);
 
             if (_context.Authors == null)
           {
               return Problem("Entity set 'bookstoredbContext.Authors'  is null.");
           }
-            _context.Authors.Add(author);
+           // _context.Authors.Add(author);
             await _context.SaveChangesAsync();
 
             return CreatedAtAction("GetAuthor", new { id = author.Id }, author);
